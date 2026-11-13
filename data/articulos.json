@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T18:45:34.499Z",
+ "actualizado": "2026-11-13T00:53:39.366Z",
  "instagramActivo": false,
  "marcas": [
   {
@@ -313,6 +313,13 @@
    "productos": [],
    "articulos": [
     {
+     "titulo": "Subtitle Launches Godzilla-Inspired Capsule Featuring Laser-Burned Denim Jackets",
+     "enlace": "https://hypebeast.com/2026/11/subtitle-godzilla-tides-capsule-collection-toho-international-release-info",
+     "fecha": "2026-11-12T20:00:29.000Z",
+     "resumen": "Summary Subtitle's \"TIDES\" is an eight-piece collection centering on Godzilla’s ties to the sea.Garment-washed denim and heat ray-inspired laser burning define the lineup.Highlight",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2Fsubtitle-godzilla-tides-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
      "titulo": "The Etsy Design Awards Are Back With a Spotlight on Next-Gen Makers",
      "enlace": "https://hypebeast.com/2026/11/etsy-design-awards-2026-announcement",
      "fecha": "2026-11-12T18:00:24.000Z",
@@ -514,13 +521,6 @@
      "fecha": "2026-11-12T06:27:08.000Z",
      "resumen": "Summary A PCMag gaming survey estimates that 12.5 million US gamers will adjust their work or school schedules to play 'Grand Theft Auto 6' at launchGen Z players are leading the c",
      "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2F12-5-million-gamers-may-take-time-off-for-grand-theft-auto-6-0.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "New Imagery Surfaces of Drake's NOCTA x Nike Air Modmax \"Pink Spell\"",
-     "enlace": "https://hypebeast.com/2026/11/drake-nocta-nike-air-modmax-pink-spell-iq6711-600-new-images-release-info",
-     "fecha": "2026-11-12T06:15:02.000Z",
-     "resumen": "Summary New imagery has surfaced of Drake's upcoming NOCTA x Nike Air Modmax Pink Spell sneakerThe silhouette features a pink gradient upper paired with three translucent amber-col",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fdrake-nocta-nike-air-modmax-pink-spell-iq6711-600-new-images-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
     }
    ],
    "avisos": [
@@ -1753,6 +1753,22 @@
    "publicaciones": [],
    "productos": [
     {
+     "titulo": "BRUSHED OVAL STOCK SKULLCAP",
+     "enlace": "https://www.stussy.com/products/1321244-brushed-oval-stock-skullcap-black",
+     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1321244_BLAC_1_e75746a4-845f-4b33-891a-a212d048dd2a.jpg?v=1760554918",
+     "precio": "50.00",
+     "fecha": "2026-11-12T13:09:29-08:00",
+     "primeraVez": "2026-11-13T00:53:39.366Z"
+    },
+    {
+     "titulo": "MECHANIX GLOVES",
+     "enlace": "https://www.stussy.com/products/338430-mechanix-gloves-black",
+     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/338430_BLAC_1.jpg?v=1760547011",
+     "precio": "35.00",
+     "fecha": "2026-11-12T13:08:27-08:00",
+     "primeraVez": "2026-11-13T00:53:39.366Z"
+    },
+    {
      "titulo": "TRIPLE CROWN TEE",
      "enlace": "https://www.stussy.com/products/1905210-triple-crown-tee-rock",
      "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1905210_ROCK_1.jpg?v=1793654598",
@@ -2214,22 +2230,6 @@
      "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/115965_BONE_3.jpg?v=1792531309",
      "precio": "450.00",
      "fecha": "2026-10-23T10:00:53-07:00",
-     "primeraVez": "2026-11-10T00:48:20.422Z"
-    },
-    {
-     "titulo": "SHADOW STRIPE RAGLAN SWEATER",
-     "enlace": "https://www.stussy.com/products/117315-shadow-stripe-raglan-sweater-blue",
-     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/117315_BLUE_3.jpg?v=1792531518",
-     "precio": "160.00",
-     "fecha": "2026-10-23T10:00:52-07:00",
-     "primeraVez": "2026-11-10T00:48:20.422Z"
-    },
-    {
-     "titulo": "PILE LINED LEATHER VEST",
-     "enlace": "https://www.stussy.com/products/115965-pile-lined-leather-vest-black",
-     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/115965_BLAC_3.jpg?v=1792531294",
-     "precio": "450.00",
-     "fecha": "2026-10-23T10:00:52-07:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     }
    ],
