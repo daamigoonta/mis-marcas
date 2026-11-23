@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T13:05:13.681Z",
+ "actualizado": "2026-11-23T18:53:26.435Z",
  "instagramActivo": false,
  "marcas": [
   {
@@ -313,6 +313,27 @@
    "productos": [],
    "articulos": [
     {
+     "titulo": "Introducing HypeAwards: The People, Products, and Brands That Defined 2026",
+     "enlace": "https://hypebeast.com/2026/11/introducing-hypeawards-the-people-products-and-brands-that-defined-2026",
+     "fecha": "2026-11-23T15:05:30.000Z",
+     "resumen": "Meet HypeAwards , Hypebeast's new annual celebration of the people, brands, and products that defined the year in culture. From the drops everyone chased to the albums, films, and ",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2FHypeAwards_Announce_Feature-Image-scaled.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "TOMORROW X TOGETHER Find Upheaval Worth Running Toward on 'PERFECT STORM'",
+     "enlace": "https://hypebeast.com/2026/11/tomorrow-x-together-perfect-storm-new-mini-album-interview",
+     "fecha": "2026-11-23T13:30:27.000Z",
+     "resumen": "A line in \"Angel Bite\" is \"Even love costs money,\" and it's about as blunt as TOMORROW X TOGETHER have ever been. Taehyun says that's on purpose. Over the years, the group has writ",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2Ftomorrow-x-together-perfect-storm-new-mini-album-interview-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "American Airlines and Alpha Industries Reimagine the MA-1 Flight Jacket for Airline’s 100th Anniversary",
+     "enlace": "https://hypebeast.com/2026/11/american-airlines-alpha-industries-ma-1-release",
+     "fecha": "2026-11-23T13:00:33.000Z",
+     "resumen": "American Airlines has teamed up with Alpha Industries to celebrate its 100th anniversary with a limited-edition MA-1 Flight Jacket, transforming leather reclaimed from retired airc",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F22%2Famerican-airlines-alpha-industries-ma-1-release-1-1.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
      "titulo": "Palace Skateboards Unveils Holiday 2026 Lookbook",
      "enlace": "https://hypebeast.com/2026/11/palace-skateboards-holiday-2026-lookbook",
      "fecha": "2026-11-23T12:30:45.000Z",
@@ -500,27 +521,6 @@
      "fecha": "2026-11-22T08:37:39.000Z",
      "resumen": "?si=bwVy1-AN_N08m5E2 Summary Disney has officially unveiled the full trailer for the upcoming animated sequel 'Ice Age: Boiling Point'The franchise's sixth installment brings the p",
      "imagen": ""
-    },
-    {
-     "titulo": "Dior Names Stray Kids' Hyunjin as New Brand Ambassador",
-     "enlace": "https://hypebeast.com/2026/11/dior-names-stray-kids-hyunjin-new-brand-ambassador-announcement",
-     "fecha": "2026-11-22T08:00:22.000Z",
-     "resumen": "Summary French luxury house Dior has officially signed Stray Kids member Hyunjin as its newest brand ambassadorThe South Korean rapper, singer, and dancer will represent the brand'",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2Fdior-names-stray-kids-hyunjin-new-brand-ambassador-announcement-000.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "Nike and Jun Takahashi Announce the Official Return of GYAKUSOU",
-     "enlace": "https://hypebeast.com/2026/11/nike-jun-takahashi-gyakusou-official-return-announcement",
-     "fecha": "2026-11-22T07:26:05.000Z",
-     "resumen": "Summary Nike and Undercover founder Jun Takahashi have officially announced the return of their collaborative running label GYAKUSOUThe sub-brand comes back from a five-year hiatus",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2Fnike-jun-takahashi-gyakusou-official-return-announcement-000.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "Jerry Lorenzo Unveils the Independent Fear of God Trainer Following adidas Split",
-     "enlace": "https://hypebeast.com/2026/11/jerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look",
-     "fecha": "2026-11-22T06:34:13.000Z",
-     "resumen": "Summary Jerry Lorenzo has officially unveiled the Fear of God Trainer as his first independent sneaker model since parting ways with adidas in 2025The low-top silhouette features a",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2Fjerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look-000.jpg?w=800&cbr=1&q=90&fit=max"
     }
    ],
    "avisos": [
@@ -1102,7 +1102,9 @@
     }
    ],
    "articulos": [],
-   "avisos": [],
+   "avisos": [
+    "No se pudieron leer los artículos de la tienda."
+   ],
    "logo": "https://nude-project.com/cdn/shop/files/1_FAV_ICON_FINAL_copia_1.png?crop=center&height=32&v=1785773193&width=32",
    "incrustable": false
   },
@@ -1256,7 +1258,7 @@
     {
      "titulo": "Balotelli Black Sweatpants",
      "enlace": "https://scuffers.com/products/balotelli-black-sweatpants",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_12_SCUFFERS_DROP_88895.jpg?v=1794927731",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_1_442256ee-9e0e-445c-8187-e0c7389a7f7d.jpg?v=1795447536",
      "precio": "99.00",
      "fecha": "2026-11-17T20:58:36+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
@@ -1312,7 +1314,7 @@
     {
      "titulo": "Warm Grey Melange Hoodie",
      "enlace": "https://scuffers.com/products/warm-grey-melange-hoodie",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_06_SCUFFERS_ROPA2204.jpg?v=1794908049",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_2_3d732bcb-08aa-439b-bde8-390f19cb32aa.jpg?v=1795447869",
      "precio": "109.00",
      "fecha": "2026-11-17T20:58:24+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
@@ -1344,7 +1346,7 @@
     {
      "titulo": "HP Navy Knit",
      "enlace": "https://scuffers.com/products/hp-navy-knit",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/SCUFFERS_2749.jpg?v=1794913505",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_2_61a4dbd1-511f-4b52-a7cd-c8c0b98e36fd.jpg?v=1795447125",
      "precio": "129.00",
      "fecha": "2026-11-17T20:58:18+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
@@ -1400,7 +1402,7 @@
     {
      "titulo": "Balotelli Red Zipper",
      "enlace": "https://scuffers.com/products/balotelli-red-zipper",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/SCUFFERS_2741.jpg?v=1794913587",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_1_ff26f7d6-0846-4ff9-b036-b66f7c62bbf6.jpg?v=1795447200",
      "precio": "119.00",
      "fecha": "2026-11-17T20:58:02+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
@@ -1432,7 +1434,7 @@
     {
      "titulo": "Balotelli Green Sweatpants",
      "enlace": "https://scuffers.com/products/balotelli-green-sweatpants",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/Balotelli_Green_Sweatpants_DROP8_1_0307ca36-71f8-4006-ad8d-3e4d5b883feb.jpg?v=1794839695",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_1_5aacadec-d87a-444e-9f11-7f2a7c6649e5.jpg?v=1795447687",
      "precio": "99.00",
      "fecha": "2026-11-17T20:57:55+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
@@ -1480,7 +1482,7 @@
     {
      "titulo": "Balotelli Red Sweatpants",
      "enlace": "https://scuffers.com/products/balotelli-red-sweatpants",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/SCUFFERS_2761.jpg?v=1794913653",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_7_1f99de24-cdce-4110-b28f-7c6cf7eb1585.jpg?v=1795447403",
      "precio": "99.00",
      "fecha": "2026-11-17T20:57:46+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
@@ -1504,7 +1506,7 @@
     {
      "titulo": "Balotelli Black Zipper",
      "enlace": "https://scuffers.com/products/balotelli-black-zipper",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_12_SCUFFERS_DROP_88847.jpg?v=1794839752",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_1_d2cdaeb7-0882-4653-b7e9-14b04daa5dbf.jpg?v=1795447335",
      "precio": "99.00",
      "fecha": "2026-11-17T20:57:41+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
