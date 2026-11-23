@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T18:38:56.029Z",
+ "actualizado": "2026-11-23T00:53:58.125Z",
  "instagramActivo": false,
  "marcas": [
   {
@@ -1566,22 +1566,6 @@
      "primeraVez": "2026-11-15T12:40:21.479Z"
     },
     {
-     "titulo": "Raw Pop Brown Hoodie",
-     "enlace": "https://scuffers.com/products/raw-pop-brown-hoodie",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_06SCUFFERSROPA2208.jpg?v=1794328259",
-     "precio": "109.00",
-     "fecha": "2026-11-15T12:00:21+01:00",
-     "primeraVez": "2026-11-15T12:40:21.479Z"
-    },
-    {
-     "titulo": "Raw Pop Green Hoodie",
-     "enlace": "https://scuffers.com/products/raw-pop-green-hoodie",
-     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_06SCUFFERSROPA2201.jpg?v=1794328278",
-     "precio": "109.00",
-     "fecha": "2026-11-15T12:00:20+01:00",
-     "primeraVez": "2026-11-15T12:40:21.479Z"
-    },
-    {
      "titulo": "Sleepy Hollow Red Jacket",
      "enlace": "https://scuffers.com/products/sleepy-hollow-red-jacket",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_4df41db1-d780-40c6-a733-92ef3b962b79.jpg?v=1794327704",
@@ -1676,6 +1660,22 @@
      "precio": "125.00",
      "fecha": "2026-11-08T12:39:46+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
+    },
+    {
+     "titulo": "Speck Grey Melange Knit",
+     "enlace": "https://scuffers.com/products/speck-grey-melange-knit",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_0365121d-fe70-434f-805c-3964c3774109.jpg?v=1793356144",
+     "precio": "129.00",
+     "fecha": "2026-11-08T12:39:44+01:00",
+     "primeraVez": "2026-11-23T00:53:58.125Z"
+    },
+    {
+     "titulo": "Nelia Dark Bag",
+     "enlace": "https://scuffers.com/products/nelia-dark-bag",
+     "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_04_SCUFFERS_DROP_81860.jpg?v=1793969300",
+     "precio": "119.00",
+     "fecha": "2026-11-08T12:39:42+01:00",
+     "primeraVez": "2026-11-23T00:53:58.125Z"
     }
    ],
    "articulos": [],
