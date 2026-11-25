@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T18:52:57.279Z",
+ "actualizado": "2026-11-25T00:58:55.360Z",
  "instagramActivo": false,
  "marcas": [
   {
@@ -313,6 +313,20 @@
    "productos": [],
    "articulos": [
     {
+     "titulo": "Ki One Becomes the First Korean Distillery to Win IWSC's Worldwide Whiskey Producer Trophy",
+     "enlace": "https://hypebeast.com/2026/11/k-whisky-ki-one-wins-iwsc-2026-worldwide-whiskey-producer-trophy",
+     "fecha": "2026-11-24T23:30:23.000Z",
+     "resumen": "Summary Ki One Whisky Distillery won the IWSC 2026 Worldwide Whiskey Producer Trophy, an award given to a distillery's whole range rather than a single bottleTo make the shortlist,",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F22%2Fk-whisky-ki-one-wins-iwsc-2026-worldwide-whiskey-producer-trophy-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "Stanley 1913 Brings Its Museum of Questionable Gifts Pop-Up to New York",
+     "enlace": "https://hypebeast.com/2026/11/stanley-1913-brings-its-museum-of-questionable-gifts-pop-up-to-new-york",
+     "fecha": "2026-11-24T20:22:20.000Z",
+     "resumen": "Stanley 1913 is heading to SoHo this holiday season with the Museum of Questionable Gifts, a pop-up that pokes fun at the presents nobody asked for while making the case for one th",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F20%2Fstanley-1913-brings-its-museum-of-questionable-gifts-pop-up-to-new-york-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
      "titulo": "The Pearl White DJI Osmo Pocket 4P Turns High End Camera Tech Into an Everyday Style Essential",
      "enlace": "https://hypebeast.com/2026/11/the-pearl-white-dji-osmo-pocket-4p-turns-high-end-camera-tech-into-an-everyday-style-essential",
      "fecha": "2026-11-24T17:00:32.000Z",
@@ -507,20 +521,6 @@
      "fecha": "2026-11-24T01:09:04.000Z",
      "resumen": "Summary Jensen Huang has been officially reinstated as the CEO of Nvidia following unanimous board approvalThe abrupt reversal comes after prominent tech figures and government off",
      "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F23%2Fnvidia-reinstates-jensen-huang-as-ceo-announcement-000.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "New Arrivals From HBX: ANACHRONORM",
-     "enlace": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-anachronorm",
-     "fecha": "2026-11-24T00:38:20.000Z",
-     "resumen": "Brand Information: Okayama denim brand ANACHRONORM was founded in 2004 by Tomoki Tanushi. Derived from the words “anachronism” and “norm”, the brand name reflects its vision to cre",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Ffaded-moleskin-patchwork-jacket-navy-product-1-cf010088_1795480681.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "What Went Down at CYBEX’s Platinum S-Line Launch With Nico Rosberg",
-     "enlace": "https://hypebeast.com/2026/11/what-went-down-at-cybexs-platinum-s-line-launch-with-nico-rosberg",
-     "fecha": "2026-11-23T21:24:45.000Z",
-     "resumen": "On October 13, CYBEX opened the doors of its headquarters in Bayreuth, Germany, to officially welcome Nico Rosberg as its new Child Safety Ambassador. The Formula 1 World Champion ",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F22%2Fwhat-went-down-at-cybexs-platinum-s-line-launch-with-nico-rosberg-000.jpg?w=800&cbr=1&q=90&fit=max"
     }
    ],
    "avisos": [
@@ -1201,7 +1201,7 @@
      "titulo": "Raw Pop Brown Hoodie",
      "enlace": "https://scuffers.com/products/raw-pop-brown-hoodie",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_06SCUFFERSROPA2208.jpg?v=1794328259",
-     "precio": "109.00",
+     "precio": "94.00",
      "fecha": "2026-11-24T13:11:04+01:00",
      "primeraVez": "2026-11-24T13:06:02.204Z"
     },
@@ -1209,7 +1209,7 @@
      "titulo": "Raw Pop Green Hoodie",
      "enlace": "https://scuffers.com/products/raw-pop-green-hoodie",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_06SCUFFERSROPA2201.jpg?v=1794328278",
-     "precio": "109.00",
+     "precio": "94.00",
      "fecha": "2026-11-24T13:11:03+01:00",
      "primeraVez": "2026-11-24T13:06:02.204Z"
     },
@@ -1217,7 +1217,7 @@
      "titulo": "Raw Pop Grey Melange Hoodie",
      "enlace": "https://scuffers.com/products/raw-pop-grey-melange-hoodie",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_2_e4310957-d448-42ad-8030-82904b885f3e.jpg?v=1791555054",
-     "precio": "109.00",
+     "precio": "94.00",
      "fecha": "2026-11-24T13:11:01+01:00",
      "primeraVez": "2026-11-24T13:06:02.204Z"
     },
@@ -1225,7 +1225,7 @@
      "titulo": "Bimbobox Dark Green Jacket",
      "enlace": "https://scuffers.com/products/bimbobox-dark-green-jacket",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_2_1e840f6f-0098-4862-87bb-a39579151cd2.jpg?v=1793724719",
-     "precio": "119.00",
+     "precio": "102.00",
      "fecha": "2026-11-20T12:20:43+01:00",
      "primeraVez": "2026-11-20T12:58:17.114Z"
     },
@@ -1233,7 +1233,7 @@
      "titulo": "Bimbobox Ecru Jacket",
      "enlace": "https://scuffers.com/products/bimbobox-ecru-jacket",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/BimboxWhiteJacket_DROP0_1.jpg?v=1793723963",
-     "precio": "119.00",
+     "precio": "102.00",
      "fecha": "2026-11-20T12:20:40+01:00",
      "primeraVez": "2026-11-20T12:58:17.114Z"
     },
@@ -1241,7 +1241,7 @@
      "titulo": "GVS Brown Sandals",
      "enlace": "https://scuffers.com/products/gvs-brown-sandals",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/DEF_CHANCLA_1_SCFF.jpg?v=1788944077",
-     "precio": "95.00",
+     "precio": "81.00",
      "fecha": "2026-11-19T17:38:55+01:00",
      "primeraVez": "2026-11-19T18:52:58.251Z"
     },
@@ -1249,7 +1249,7 @@
      "titulo": "Rattler Ecru Wallet",
      "enlace": "https://scuffers.com/products/rattler-ecru-wallet",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/PLANTILLA_00292.jpg?v=1794832973",
-     "precio": "59.00",
+     "precio": "51.00",
      "fecha": "2026-11-17T20:58:41+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1257,7 +1257,7 @@
      "titulo": "Rattler Brown Wallet",
      "enlace": "https://scuffers.com/products/rattler-brown-wallet",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/PLANTILLA_00296.jpg?v=1794832999",
-     "precio": "59.00",
+     "precio": "51.00",
      "fecha": "2026-11-17T20:58:39+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1265,7 +1265,7 @@
      "titulo": "Rattler Ecru Duffle Bag",
      "enlace": "https://scuffers.com/products/rattler-ecru-duffle-bag",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/Rattler_Ecru_Duffle_Bag_DROP8_1.jpg?v=1794833020",
-     "precio": "199.00",
+     "precio": "170.00",
      "fecha": "2026-11-17T20:58:37+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1273,7 +1273,7 @@
      "titulo": "Balotelli Black Sweatpants",
      "enlace": "https://scuffers.com/products/balotelli-black-sweatpants",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_1_442256ee-9e0e-445c-8187-e0c7389a7f7d.jpg?v=1795447536",
-     "precio": "99.00",
+     "precio": "85.00",
      "fecha": "2026-11-17T20:58:36+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1281,7 +1281,7 @@
      "titulo": "Sour Dark Pants",
      "enlace": "https://scuffers.com/products/sour-dark-pants",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_7e08a30d-31a4-4132-8859-5e29323b9f2f.jpg?v=1794561793",
-     "precio": "125.00",
+     "precio": "107.00",
      "fecha": "2026-11-17T20:58:34+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1289,7 +1289,7 @@
      "titulo": "Sour Blue Pants",
      "enlace": "https://scuffers.com/products/sour-blue-pants",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_9492defa-a9d7-4912-9f71-392ecdb54732.jpg?v=1794561839",
-     "precio": "125.00",
+     "precio": "107.00",
      "fecha": "2026-11-17T20:58:32+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1297,7 +1297,7 @@
      "titulo": "Sassy Navy Zipper Knit",
      "enlace": "https://scuffers.com/products/sassy-navy-zipper-knit",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_5ff1c5b7-edb5-45c3-8b8b-0583ace3dcb1.jpg?v=1794561904",
-     "precio": "129.00",
+     "precio": "110.00",
      "fecha": "2026-11-17T20:58:31+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1305,7 +1305,7 @@
      "titulo": "Sassy Brown Zipper Knit",
      "enlace": "https://scuffers.com/products/sassy-brown-zipper-knit",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM2_e65dc582-9a4a-43e9-afc7-f9ef9bfef73c.jpg?v=1794561941",
-     "precio": "129.00",
+     "precio": "110.00",
      "fecha": "2026-11-17T20:58:29+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1313,7 +1313,7 @@
      "titulo": "Stone Orange Puffer",
      "enlace": "https://scuffers.com/products/stone-orange-puffer",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM3_a518d10d-3672-4dfc-bcf6-7c2f4a6f5b97.jpg?v=1794562103",
-     "precio": "249.00",
+     "precio": "212.00",
      "fecha": "2026-11-17T20:58:28+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1321,7 +1321,7 @@
      "titulo": "Stone Dark Puffer",
      "enlace": "https://scuffers.com/products/stone-dark-puffer",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM2_b0deaea4-b480-4271-98d6-38862cc93e03.jpg?v=1794562210",
-     "precio": "249.00",
+     "precio": "212.00",
      "fecha": "2026-11-17T20:58:26+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1329,7 +1329,7 @@
      "titulo": "Warm Grey Melange Hoodie",
      "enlace": "https://scuffers.com/products/warm-grey-melange-hoodie",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_2_3d732bcb-08aa-439b-bde8-390f19cb32aa.jpg?v=1795447869",
-     "precio": "109.00",
+     "precio": "94.00",
      "fecha": "2026-11-17T20:58:24+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1337,7 +1337,7 @@
      "titulo": "Rattler Brown Belt",
      "enlace": "https://scuffers.com/products/rattler-brown-belt",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/rattler_brown_belt3.png?v=1794929409",
-     "precio": "49.00",
+     "precio": "42.00",
      "fecha": "2026-11-17T20:58:23+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1345,7 +1345,7 @@
      "titulo": "Rattler Ecru Belt",
      "enlace": "https://scuffers.com/products/rattler-ecru-belt",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_12_SCUFFERS_DROP_88917.jpg?v=1794838806",
-     "precio": "49.00",
+     "precio": "42.00",
      "fecha": "2026-11-17T20:58:21+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1353,7 +1353,7 @@
      "titulo": "Rattler Brown Gloves",
      "enlace": "https://scuffers.com/products/rattler-brown-gloves",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_12_SCUFFERS_DROP_88901.jpg?v=1794838909",
-     "precio": "65.00",
+     "precio": "56.00",
      "fecha": "2026-11-17T20:58:19+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1361,7 +1361,7 @@
      "titulo": "HP Navy Knit",
      "enlace": "https://scuffers.com/products/hp-navy-knit",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_2_61a4dbd1-511f-4b52-a7cd-c8c0b98e36fd.jpg?v=1795447125",
-     "precio": "129.00",
+     "precio": "110.00",
      "fecha": "2026-11-17T20:58:18+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1369,7 +1369,7 @@
      "titulo": "Jazmin Dark Red Jacket",
      "enlace": "https://scuffers.com/products/jazmin-dark-red-jacket",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM2_e1f447cf-2d3a-4a3b-9f96-6528d03a85c4.jpg?v=1794573656",
-     "precio": "135.00",
+     "precio": "115.00",
      "fecha": "2026-11-17T20:58:16+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1377,7 +1377,7 @@
      "titulo": "Nancy Dust Green Bag",
      "enlace": "https://scuffers.com/products/nancy-dust-green-bag",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/Nancy_Dust_Green_Bag_DROP8_1.jpg?v=1794839015",
-     "precio": "95.00",
+     "precio": "81.00",
      "fecha": "2026-11-17T20:58:12+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1385,7 +1385,7 @@
      "titulo": "Nancy Dust Pink Bag",
      "enlace": "https://scuffers.com/products/nancy-dust-pink-bag",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/Nancy_Dust_Pink_Bag_DROP8_1.jpg?v=1794839049",
-     "precio": "95.00",
+     "precio": "81.00",
      "fecha": "2026-11-17T20:58:09+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1393,7 +1393,7 @@
      "titulo": "Joe Green Jacket",
      "enlace": "https://scuffers.com/products/joe-green-jacket",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM3_14bed69a-15cb-4e89-966f-60797aa92bbc.jpg?v=1794573815",
-     "precio": "209.00",
+     "precio": "183.00",
      "fecha": "2026-11-17T20:58:07+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1401,7 +1401,7 @@
      "titulo": "Joe Navy Jacket",
      "enlace": "https://scuffers.com/products/joe-navy-jacket",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM2_361d8a8f-b292-407c-8d55-501b1033152a.jpg?v=1794573845",
-     "precio": "209.00",
+     "precio": "183.00",
      "fecha": "2026-11-17T20:58:05+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1409,7 +1409,7 @@
      "titulo": "Lof Pink Longsleeve",
      "enlace": "https://scuffers.com/products/lof-pink-longsleeve",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM4_d6eecfda-6c08-41c2-8ae8-72e78c648739.jpg?v=1794573914",
-     "precio": "59.00",
+     "precio": "51.00",
      "fecha": "2026-11-17T20:58:03+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1417,7 +1417,7 @@
      "titulo": "Balotelli Red Zipper",
      "enlace": "https://scuffers.com/products/balotelli-red-zipper",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_1_ff26f7d6-0846-4ff9-b036-b66f7c62bbf6.jpg?v=1795447200",
-     "precio": "119.00",
+     "precio": "102.00",
      "fecha": "2026-11-17T20:58:02+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1425,7 +1425,7 @@
      "titulo": "Champagne Silver Skirt",
      "enlace": "https://scuffers.com/products/champagne-silver-skirt",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ChampagneSilverSkirt_DROP8_1.jpg?v=1794839198",
-     "precio": "69.00",
+     "precio": "59.00",
      "fecha": "2026-11-17T20:58:00+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1433,7 +1433,7 @@
      "titulo": "Social AG Necklace",
      "enlace": "https://scuffers.com/products/social-ag-necklace",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/COL-1_1.jpg?v=1794839224",
-     "precio": "65.00",
+     "precio": "56.00",
      "fecha": "2026-11-17T20:57:59+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1441,7 +1441,7 @@
      "titulo": "Social AG Ring",
      "enlace": "https://scuffers.com/products/social-ag-ring",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ANI-1_1.jpg?v=1794839246",
-     "precio": "49.00",
+     "precio": "43.00",
      "fecha": "2026-11-17T20:57:57+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1449,7 +1449,7 @@
      "titulo": "Balotelli Green Sweatpants",
      "enlace": "https://scuffers.com/products/balotelli-green-sweatpants",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_1_5aacadec-d87a-444e-9f11-7f2a7c6649e5.jpg?v=1795447687",
-     "precio": "99.00",
+     "precio": "85.00",
      "fecha": "2026-11-17T20:57:55+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1457,7 +1457,7 @@
      "titulo": "Lacasa Navy T-Shirt",
      "enlace": "https://scuffers.com/products/lacasa-navy-t-shirt",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_64949bb2-3d91-4863-9937-56aab06c352b.jpg?v=1794574023",
-     "precio": "55.00",
+     "precio": "47.00",
      "fecha": "2026-11-17T20:57:54+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1465,7 +1465,7 @@
      "titulo": "Lacasa Grey Melange Longsleeve",
      "enlace": "https://scuffers.com/products/lacasa-grey-melange-longsleeve",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM4_5f25d22c-361e-4d33-8574-af9e4dd7a2f5.jpg?v=1794574060",
-     "precio": "79.00",
+     "precio": "67.00",
      "fecha": "2026-11-17T20:57:52+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1473,7 +1473,7 @@
      "titulo": "Not Double Star Hoodie",
      "enlace": "https://scuffers.com/products/not-double-star-hoodie",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM2_9268d8bb-eaa5-416b-a7d7-55cc5b58675f.jpg?v=1794574113",
-     "precio": "109.00",
+     "precio": "94.00",
      "fecha": "2026-11-17T20:57:51+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1481,7 +1481,7 @@
      "titulo": "Not Double Leopard Hoodie",
      "enlace": "https://scuffers.com/products/not-double-leopard-hoodie",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_cf382987-9268-428d-b983-4f4e554a714b.jpg?v=1794574133",
-     "precio": "109.00",
+     "precio": "94.00",
      "fecha": "2026-11-17T20:57:49+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1489,7 +1489,7 @@
      "titulo": "Balotelli Green Zipper",
      "enlace": "https://scuffers.com/products/balotelli-green-zipper",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_12_SCUFFERS_DROP_88862_8126ac63-d653-4ac8-b208-69f51fcb3c71.jpg?v=1794913627",
-     "precio": "119.00",
+     "precio": "102.00",
      "fecha": "2026-11-17T20:57:47+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1497,7 +1497,7 @@
      "titulo": "Balotelli Red Sweatpants",
      "enlace": "https://scuffers.com/products/balotelli-red-sweatpants",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_7_1f99de24-cdce-4110-b28f-7c6cf7eb1585.jpg?v=1795447403",
-     "precio": "99.00",
+     "precio": "85.00",
      "fecha": "2026-11-17T20:57:46+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1505,7 +1505,7 @@
      "titulo": "Romantico Grey Knit Zipper",
      "enlace": "https://scuffers.com/products/romantico-grey-knit-zipper",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_b3090e4d-5545-434f-b66d-a70ddb758de8.jpg?v=1794574213",
-     "precio": "99.00",
+     "precio": "85.00",
      "fecha": "2026-11-17T20:57:44+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1513,7 +1513,7 @@
      "titulo": "Romantico Ecru Knit Zipper",
      "enlace": "https://scuffers.com/products/romantico-ecru-knit-zipper",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM2_537e8dee-efa6-4061-96df-779d8f931272.jpg?v=1794574245",
-     "precio": "99.00",
+     "precio": "85.00",
      "fecha": "2026-11-17T20:57:43+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1521,7 +1521,7 @@
      "titulo": "Balotelli Black Zipper",
      "enlace": "https://scuffers.com/products/balotelli-black-zipper",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM_1_d2cdaeb7-0882-4653-b7e9-14b04daa5dbf.jpg?v=1795447335",
-     "precio": "99.00",
+     "precio": "85.00",
      "fecha": "2026-11-17T20:57:41+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1529,7 +1529,7 @@
      "titulo": "Ruth Brown Belt",
      "enlace": "https://scuffers.com/products/ruth-brown-belt",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_12_SCUFFERS_DROP_88928.jpg?v=1794839815",
-     "precio": "49.00",
+     "precio": "42.00",
      "fecha": "2026-11-17T20:57:39+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1537,7 +1537,7 @@
      "titulo": "Basic Red & Black Shorties",
      "enlace": "https://scuffers.com/products/basic-red-black-shorties",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/packshoties_jpg.jpg?v=1794914658",
-     "precio": "45.00",
+     "precio": "39.00",
      "fecha": "2026-11-17T20:57:37+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1545,7 +1545,7 @@
      "titulo": "Kimi Grey Knit",
      "enlace": "https://scuffers.com/products/kimi-grey-knit",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM3_06079e6a-981c-434e-af38-339ad51641b0.jpg?v=1794574310",
-     "precio": "99.00",
+     "precio": "85.00",
      "fecha": "2026-11-17T20:57:36+01:00",
      "primeraVez": "2026-11-18T00:58:26.918Z"
     },
@@ -1553,7 +1553,7 @@
      "titulo": "Raw Block Burgundy Longsleeve",
      "enlace": "https://scuffers.com/products/raw-block-burgundy-longsleeve",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM2_d8564acb-92a2-488e-a7d6-9da2ab81dc26.jpg?v=1794327476",
-     "precio": "69.00",
+     "precio": "59.00",
      "fecha": "2026-11-15T12:00:28+01:00",
      "primeraVez": "2026-11-15T12:40:21.479Z"
     },
@@ -1561,7 +1561,7 @@
      "titulo": "Raw Block Navy Longsleeve",
      "enlace": "https://scuffers.com/products/raw-block-navy-longsleeve",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM3_2711ddc9-ec23-42ed-b6ee-a95d68c9f11a.jpg?v=1794327578",
-     "precio": "69.00",
+     "precio": "59.00",
      "fecha": "2026-11-15T12:00:27+01:00",
      "primeraVez": "2026-11-15T12:40:21.479Z"
     },
@@ -1569,7 +1569,7 @@
      "titulo": "Raw Block Camo Longsleeve",
      "enlace": "https://scuffers.com/products/raw-block-camo-longsleeve",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_834c6eb6-b352-4c35-b453-17b76a6cd33b.jpg?v=1794327618",
-     "precio": "69.00",
+     "precio": "59.00",
      "fecha": "2026-11-15T12:00:25+01:00",
      "primeraVez": "2026-11-15T12:40:21.479Z"
     },
@@ -1577,7 +1577,7 @@
      "titulo": "Club Leopard Zipper",
      "enlace": "https://scuffers.com/products/club-leopard-zipper",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM2_5279a96c-d49e-4ad2-9cbd-a49149a41573.jpg?v=1794327657",
-     "precio": "119.00",
+     "precio": "102.00",
      "fecha": "2026-11-15T12:00:23+01:00",
      "primeraVez": "2026-11-15T12:40:21.479Z"
     },
@@ -1585,7 +1585,7 @@
      "titulo": "Sleepy Hollow Red Jacket",
      "enlace": "https://scuffers.com/products/sleepy-hollow-red-jacket",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_4df41db1-d780-40c6-a733-92ef3b962b79.jpg?v=1794327704",
-     "precio": "159.00",
+     "precio": "136.00",
      "fecha": "2026-11-15T12:00:18+01:00",
      "primeraVez": "2026-11-15T12:40:21.479Z"
     },
@@ -1593,7 +1593,7 @@
      "titulo": "New Raw Black Puffer",
      "enlace": "https://scuffers.com/products/new-raw-black-puffer",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_395454a4-39bb-4422-bb8c-801ca5ce030d.jpg?v=1793355530",
-     "precio": "249.00",
+     "precio": "212.00",
      "fecha": "2026-11-08T12:40:02+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1601,7 +1601,7 @@
      "titulo": "New Raw Green Puffer",
      "enlace": "https://scuffers.com/products/new-raw-green-puffer",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_104cfa1f-5aff-4d00-b76d-384acc1c3523.jpg?v=1793355563",
-     "precio": "249.00",
+     "precio": "212.00",
      "fecha": "2026-11-08T12:40:00+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1609,7 +1609,7 @@
      "titulo": "Icecream Brown Longsleeve",
      "enlace": "https://scuffers.com/products/icecream-brown-longsleeve",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_1b241129-c01a-4ee8-923b-29e4b169ec90.jpg?v=1793783778",
-     "precio": "59.00",
+     "precio": "51.00",
      "fecha": "2026-11-08T12:39:58+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1617,7 +1617,7 @@
      "titulo": "Speck Dark Scarf",
      "enlace": "https://scuffers.com/products/speck-dark-scarf",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_04_SCUFFERS_DROP_82056.jpg?v=1793968941",
-     "precio": "49.00",
+     "precio": "43.00",
      "fecha": "2026-11-08T12:39:57+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1625,7 +1625,7 @@
      "titulo": "Speck Dark Beanie",
      "enlace": "https://scuffers.com/products/speck-dark-beanie",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_06_SCUFFERS_ROPA2184.jpg?v=1794328443",
-     "precio": "45.00",
+     "precio": "39.00",
      "fecha": "2026-11-08T12:39:55+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1633,7 +1633,7 @@
      "titulo": "Lavender Yellow Knit",
      "enlace": "https://scuffers.com/products/lavender-yellow-knit",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_9df2b379-d175-4221-8080-46ea046a4494.jpg?v=1793355916",
-     "precio": "129.00",
+     "precio": "110.00",
      "fecha": "2026-11-08T12:39:54+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1641,7 +1641,7 @@
      "titulo": "Lavender Grey Knit",
      "enlace": "https://scuffers.com/products/lavender-grey-knit",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_afbd81d6-176c-4830-bb98-49f4d467548f.jpg?v=1793355947",
-     "precio": "129.00",
+     "precio": "110.00",
      "fecha": "2026-11-08T12:39:52+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1649,7 +1649,7 @@
      "titulo": "Nebulous Ecru Bag",
      "enlace": "https://scuffers.com/products/nebulous-ecru-bag",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_04_SCUFFERS_DROP_81854.jpg?v=1793969063",
-     "precio": "119.00",
+     "precio": "102.00",
      "fecha": "2026-11-08T12:39:51+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1657,7 +1657,7 @@
      "titulo": "Nebulous Green Bag",
      "enlace": "https://scuffers.com/products/nebulous-green-bag",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_04_SCUFFERS_DROP_81844.jpg?v=1793969106",
-     "precio": "119.00",
+     "precio": "102.00",
      "fecha": "2026-11-08T12:39:49+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1665,7 +1665,7 @@
      "titulo": "Nebulous Dusty Green Gloves",
      "enlace": "https://scuffers.com/products/nebulous-dusty-green-gloves",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/2026_11_06_Scuffers_accesorios12677.jpg?v=1794328646",
-     "precio": "65.00",
+     "precio": "56.00",
      "fecha": "2026-11-08T12:39:47+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     },
@@ -1673,16 +1673,14 @@
      "titulo": "Deira Camo Pants",
      "enlace": "https://scuffers.com/products/deira-camo-pants",
      "imagen": "https://cdn.shopify.com/s/files/1/0035/9828/6912/files/ECOM1_78753618-1746-4e2a-ae77-4bea9f9ec5b8.jpg?v=1793356111",
-     "precio": "125.00",
+     "precio": "107.00",
      "fecha": "2026-11-08T12:39:46+01:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     }
    ],
    "articulos": [],
-   "avisos": [
-    "No se pudieron leer los artículos de la tienda."
-   ],
-   "logo": "https://scuffers.com/cdn/shop/files/favicon-03_12bc8e70-0d73-4fc9-91df-c587dc3c21f2.png?v=1684414899",
+   "avisos": [],
+   "logo": "https://scuffers.com/cdn/shop/files/favicon-03_12bc8e70-0d73-4fc9-91df-c587dc3c21f2.png?crop=center&height=32&v=1684414899&width=32",
    "incrustable": false
   },
   {
