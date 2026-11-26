@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T18:46:09.026Z",
+ "actualizado": "2026-11-26T00:59:15.312Z",
  "instagramActivo": false,
  "marcas": [
   {
@@ -313,6 +313,20 @@
    "productos": [],
    "articulos": [
     {
+     "titulo": "Conquering the Holiday Gift Scramble at Lids",
+     "enlace": "https://hypebeast.com/2026/11/conquering-the-holiday-gift-scramble-at-lids",
+     "fecha": "2026-11-25T19:05:38.000Z",
+     "resumen": "With the holiday season just around the corner, finding the perfect gift for coworkers can often feel like an insurmountable task. As offices prepare for end-of-year celebrations, ",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F23%2Fconquering-the-holiday-gift-scramble-at-lids-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "24 Hours with Red Bull during Latin Music’s Busiest Week",
+     "enlace": "https://hypebeast.com/2026/11/24-hours-with-red-bull-during-latin-grammys-2026-hypebeast-latam-info",
+     "fecha": "2026-11-25T18:51:49.000Z",
+     "resumen": "Red Bull kept the energy flowing as Hypebeast LATAM returned to Las Vegas during Latin GRAMMY Week . From an exclusive interview suite at the Encore Tower Suites to dinner at Zero ",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F25%2F24-hours-with-red-bull-during-latin-grammys-2026-hypebeast-latam-info-0.png?w=800&cbr=1&q=90&format=png&fit=max"
+    },
+    {
      "titulo": "NANGA to Host Limited-Time Pop-Up Store in New York",
      "enlace": "https://hypebeast.com/2026/11/nanga-host-limited-time-pop-up-store-new-york",
      "fecha": "2026-11-25T18:08:35.000Z",
@@ -507,20 +521,6 @@
      "fecha": "2026-11-24T09:40:24.000Z",
      "resumen": "Summary Ronnie Fieg and ASICS revisit their 2008 “Black Patent” release with an official Darth Vader-inspired GEL-LYTE III Remastered.The “Castlerock” colorway features perforated ",
      "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F24%2Fstar-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "Real-Life Sisters Dakota and Elle Fanning Unite on Screen in Sony's World War II Drama 'The Nightingale'",
-     "enlace": "https://hypebeast.com/2026/11/real-life-sisters-dakota-elle-fanning-unite-sony-world-war-ii-drama-the-nightingale-official-trailer-release-info",
-     "fecha": "2026-11-24T09:33:38.000Z",
-     "resumen": "Summary Sony has officially released the first look at its upcoming World War II drama film 'The Nightingale'Real-life siblings Dakota and Elle Fanning share the screen for the fir",
-     "imagen": ""
-    },
-    {
-     "titulo": "Rare Hilma af Klint Masterpiece Commands a Record-Breaking $12.7 Million USD at Auction",
-     "enlace": "https://hypebeast.com/2026/11/rare-hilma-af-klint-masterpiece-ser-iii-no-5-record-breaking-12-7-million-usd-bukowskis-auction",
-     "fecha": "2026-11-24T09:05:28.000Z",
-     "resumen": "Summary A 1920 abstract painting by pioneering artist Hilma af Klint recently sold for a record-breaking $12.7 million USD at a Swedish auction houseThe rare offering of 'Ser III N",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F23%2Frare-hilma-af-klint-masterpiece-ser-iii-no-5-record-breaking-12-7-million-usd-bukowskis-auction-000.jpg?w=800&cbr=1&q=90&fit=max"
     }
    ],
    "avisos": [
@@ -1753,6 +1753,30 @@
    "publicaciones": [],
    "productos": [
     {
+     "titulo": "CUT OUT LEATHER TRUCKER",
+     "enlace": "https://www.stussy.com/products/1311251-cut-out-leather-trucker-eggplant",
+     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1311251_EGGP_1.jpg?v=1794603374",
+     "precio": "55.00",
+     "fecha": "2026-11-25T15:32:23-08:00",
+     "primeraVez": "2026-11-26T00:59:15.312Z"
+    },
+    {
+     "titulo": "CUT OUT LEATHER TRUCKER",
+     "enlace": "https://www.stussy.com/products/1311251-cut-out-leather-trucker-brown",
+     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1311251_BROW_1.jpg?v=1794603337",
+     "precio": "55.00",
+     "fecha": "2026-11-25T15:32:22-08:00",
+     "primeraVez": "2026-11-26T00:59:15.312Z"
+    },
+    {
+     "titulo": "CUT OUT LEATHER TRUCKER",
+     "enlace": "https://www.stussy.com/products/1311251-cut-out-leather-trucker-black",
+     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1311251_BLAC_1.jpg?v=1794603301",
+     "precio": "55.00",
+     "fecha": "2026-11-25T15:32:21-08:00",
+     "primeraVez": "2026-11-26T00:59:15.312Z"
+    },
+    {
      "titulo": "BRUSHED OVAL STOCK SKULLCAP",
      "enlace": "https://www.stussy.com/products/1321244-brushed-oval-stock-skullcap-sage",
      "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1321244_SAGE_1.jpg?v=1760555075",
@@ -2206,30 +2230,6 @@
      "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1975206_NAVY_1.jpg?v=1793654661",
      "precio": "150.00",
      "fecha": "2026-11-02T17:51:39-08:00",
-     "primeraVez": "2026-11-10T00:48:20.422Z"
-    },
-    {
-     "titulo": "DERBY ZIP HOODIE",
-     "enlace": "https://www.stussy.com/products/1975206-derby-zip-hoodie-black",
-     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1975206_BLAC_1.jpg?v=1793654626",
-     "precio": "150.00",
-     "fecha": "2026-11-02T17:51:38-08:00",
-     "primeraVez": "2026-11-10T00:48:20.422Z"
-    },
-    {
-     "titulo": "DERBY ZIP HOODIE",
-     "enlace": "https://www.stussy.com/products/1975206-derby-zip-hoodie-ash-heather",
-     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1975206_ASHH_1.jpg?v=1793654612",
-     "precio": "150.00",
-     "fecha": "2026-11-02T17:51:37-08:00",
-     "primeraVez": "2026-11-10T00:48:20.422Z"
-    },
-    {
-     "titulo": "TRIPLE CROWN TEE",
-     "enlace": "https://www.stussy.com/products/1905210-triple-crown-tee-palm",
-     "imagen": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/1905210_PALM_1.jpg?v=1793654566",
-     "precio": "45.00",
-     "fecha": "2026-11-02T17:51:36-08:00",
      "primeraVez": "2026-11-10T00:48:20.422Z"
     }
    ],
