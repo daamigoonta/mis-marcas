@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T07:07:03.815Z",
+ "actualizado": "2026-11-27T13:03:37.567Z",
  "instagramActivo": false,
  "marcas": [
   {
@@ -313,11 +313,67 @@
    "productos": [],
    "articulos": [
     {
+     "titulo": "Nvidia Freezes AI Server Shipments to Four Southeast Asian Countries Amid a US Crackdown on Remote Chip Access",
+     "enlace": "https://hypebeast.com/2026/11/nvidia-halts-ai-chip-shipments-to-four-nations",
+     "fecha": "2026-11-27T10:30:57.000Z",
+     "resumen": "Summary Nvidia has ordered its manufacturing partners to halt shipments of servers equipped with advanced AI chips to four Southeast Asian nationsThe suspension aims to stop Chines",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fnvidia-halts-ai-chip-shipments-to-four-nations-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "Palace Skateboard's Beijing Flagship Takes Its Cues From the Great Wall",
+     "enlace": "https://hypebeast.com/2026/11/palace-skateboards-beijing-flagship-store-opening-info-announcement",
+     "fecha": "2026-11-27T09:56:49.000Z",
+     "resumen": "Summary Palace Skateboards is opening a two-story flagship in Beijing's Taikoo Li Sanlitun, designed around the brickwork of the Great WallGlass bricks, backlit green onyx and Chin",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fpalace-skateboards-beijing-flagship-store-opening-info-announcement-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "Innioasis Launches the Y2, a $79.99 USD Music Player That Brings Back iPod-Style Scrolling",
+     "enlace": "https://hypebeast.com/2026/11/innioasis-y2-music-player-debuts-with-touch-scroll-ring",
+     "fecha": "2026-11-27T09:30:06.000Z",
+     "resumen": "Summary The Innioasis Y2 Music Player revives classic tactile navigation with an iPod-style touch-sensitive scroll ringThe offline-only device skips streaming apps in favor of user",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Finnioasis-y2-music-player-debuts-with-touch-scroll-ring-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "Jyodan and Amiide on Turning Noriko Kose’s “Still I Miss You” Into an Award-Winning Sampling Contest Track",
+     "enlace": "https://hypebeast.com/2026/11/jyodan-amiide-but-i-still-miss-u-release-interview",
+     "fecha": "2026-11-27T09:00:56.000Z",
+     "resumen": "Noriko Kose's \"Still I Miss You\" — a masterpiece famously sampled in Nujabes' iconic \"Reflection Eternal\" and cherished globally as part of the DNA of lo-fi and jazzy hip-hop — has",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fj-ami-ft.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "Apple Captures 57% of US Smartphone Shipments in Q3 2026",
+     "enlace": "https://hypebeast.com/2026/11/apple-dominates-us-smartphone-market-with-57-share-in-q3",
+     "fecha": "2026-11-27T08:30:56.000Z",
+     "resumen": "Summary Apple captured 57% of the US smartphone market in Q3 2026 despite a broader industry downturnRising memory costs squeezed competitors and heavily impacted the low-end Andro",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fapple-dominates-us-smartphone-market-with-57-share-in-q3-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "Ford Goes Like Hell Again With the Le Mans-Bound GT41 Hypercar",
+     "enlace": "https://hypebeast.com/2026/11/ford-gt41-wec-hypercar-release-info",
+     "fecha": "2026-11-27T08:14:06.000Z",
+     "resumen": "Summary Ford unveils the GT41 with a Zack Snyder film narrated by Matt Damon.Standing 41 inches tall, it pairs a 5.4-liter V8 with hybrid power.Racing starts in Qatar in March 2027",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fford-gt41-wec-hypercar-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "FREE THE YOUTH Unveils Friends & Family Exclusive Air Jordan 16 Evoking the EVA Unit-01",
+     "enlace": "https://hypebeast.com/2026/11/free-the-youth-air-jordan-16-friesnds-family-model-release-info",
+     "fecha": "2026-11-27T08:05:58.000Z",
+     "resumen": "Ghana-based creative collective FREE THE YOUTH has unveiled a Friends & Family exclusive model of the Air Jordan 16. The group drew attention earlier this year with the release of ",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Ffree-the-youth-air-jordan-16-friesnds-family-model-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
+     "titulo": "Rockstar Developers Detail the 'GTA VI' Features That Got Cut",
+     "enlace": "https://hypebeast.com/2026/11/rockstar-games-grand-theft-auto-gta-vi-developers-reveal-features-didnt-make-game",
+     "fecha": "2026-11-27T07:40:32.000Z",
+     "resumen": "Summary Rockstar North developers revealed in an interview with German outlet 'PC Games' that several planned 'GTA VI' features were scrapped during developmentTennis, cinema and t",
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Frockstar-games-grand-theft-auto-gta-vi-developers-reveal-features-didnt-make-game-000.jpg?w=800&cbr=1&q=90&fit=max"
+    },
+    {
      "titulo": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 \"Barley\"",
      "enlace": "https://hypebeast.com/2026/11/cactus-plant-flea-market-cpfm-nike-flea-1-barley-iu5238-700-official-images",
      "fecha": "2026-11-27T06:33:07.000Z",
      "resumen": "Name: Cactus Plant Flea Market x Nike Flea 1 “Barley” Colorway: Barley/Desert Moss-Brown Basalt-Sail SKU: IU5238-700 MSRP: $180 USD Release Date: December 2026 The Cactus Plant Fle",
-     "imagen": ""
+     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fcactus-plant-flea-market-cpfm-nike-flea-1-barley-iu5238-700-official-images-000.jpg?w=800&cbr=1&q=90&fit=max"
     },
     {
      "titulo": "Toyota Turns Its Workhorse Into a Showstopper With the Hilux Hyper Z Prototype",
@@ -465,62 +521,6 @@
      "fecha": "2026-11-26T03:11:02.000Z",
      "resumen": "As the second triple collaboration between Taiwanese select shop INVINCIBLE (established in 2007), independent label MADNESS (founded in 2014 by Hong Kong actor Shawn Yue), and ASI",
      "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Finvincible-madness-asics-2nd-collabo-gel-kayano-12-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "thisisneverthat and New Era's Latest Collection Highlights the Yankees",
-     "enlace": "https://hypebeast.com/2026/11/thisisneverthat-x-new-era-new-york-yankees-collaboration-info",
-     "fecha": "2026-11-26T03:09:41.000Z",
-     "resumen": "Seoul-based streetwear brand thisisneverthat is launching a collaborative collection with New Era on Friday, November 27. Building on a longstanding relationship between the two br",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fthisisneverthat-x-new-era-new-york-yankees-collaboration-info00.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "WTAPS and HOKA Collaborate on New Collection Featuring Speedgoat Redesigned with a Unique Perspective",
-     "enlace": "https://hypebeast.com/2026/11/wtaps-hoka-speedgoat-collabo-collection-release-info",
-     "fecha": "2026-11-26T03:08:10.000Z",
-     "resumen": "WTAPS and HOKA have unveiled their second collaborative collection. Following up on their initial 2024 partnership, this release uses HOKA's signature trail running shoe, the Speed",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fwtaps-hoka-speedgoat-collabo-collection-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "Conquering the Holiday Gift Scramble at Lids",
-     "enlace": "https://hypebeast.com/2026/11/conquering-the-holiday-gift-scramble-at-lids",
-     "fecha": "2026-11-25T19:05:38.000Z",
-     "resumen": "With the holiday season just around the corner, finding the perfect gift for coworkers can often feel like an insurmountable task. As offices prepare for end-of-year celebrations, ",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F23%2Fconquering-the-holiday-gift-scramble-at-lids-000.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "24 Hours with Red Bull during Latin Music’s Busiest Week",
-     "enlace": "https://hypebeast.com/2026/11/24-hours-with-red-bull-during-latin-grammys-2026-hypebeast-latam-info",
-     "fecha": "2026-11-25T18:51:49.000Z",
-     "resumen": "Red Bull kept the energy flowing as Hypebeast LATAM returned to Las Vegas during Latin GRAMMY Week . From an exclusive interview suite at the Encore Tower Suites to dinner at Zero ",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F25%2F24-hours-with-red-bull-during-latin-grammys-2026-hypebeast-latam-info-0.png?w=800&cbr=1&q=90&format=png&fit=max"
-    },
-    {
-     "titulo": "NANGA to Host Limited-Time Pop-Up Store in New York",
-     "enlace": "https://hypebeast.com/2026/11/nanga-host-limited-time-pop-up-store-new-york",
-     "fecha": "2026-11-25T18:08:35.000Z",
-     "resumen": "Summary Japanese outdoor brand NANGA is opening a New York pop-up at 325 Canal Street from December 4 to 21.The store will stock NANGA’s signature down apparel, sleeping bags, comf",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F25%2Fpop-up-store-banner-feature-image.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "Infinix Packs Its ZClip 2 Pro Earbuds Into a Snack Bag",
-     "enlace": "https://hypebeast.com/2026/11/infinix-zclip-2-pro-earbuds-snack-bag",
-     "fecha": "2026-11-25T16:00:47.000Z",
-     "resumen": "The Infinix ZClip 2 Pro comes in a foil snack pouch, a form familiar to all. Tear the notched edge, hear the crinkle, and instead of chips you get a pair of metallic open-ear earbu",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F18%2Finfinix-zclip-2-pro-earbuds-snack-bag-000.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "Zamna Will Bring 10 Days of Global Dance Music to Tulum for Landmark 10th Anniversary",
-     "enlace": "https://hypebeast.com/2026/11/zamna-10-anniversary-festival-event-info",
-     "fecha": "2026-11-25T15:30:39.000Z",
-     "resumen": "The Tulum jungle in Mexico has been integral to Zamna ’s rise, hosting its first music festival back in 2017. Though the culture and hospitality group has taken the festival to ove",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F25%2Fzamna-10-anniversary-festival-event-info-0.jpg?w=800&cbr=1&q=90&fit=max"
-    },
-    {
-     "titulo": "AAPE x BABY MILO® FW26 Turns Signature Camo Into a Game of Hide-and-Seek",
-     "enlace": "https://hypebeast.com/2026/11/aape-baby-baby-milo-fw26-collection-release-info",
-     "fecha": "2026-11-25T08:45:03.000Z",
-     "resumen": "AAPE BY *A BATHING APE® has teamed up with BABY MILO® once again for Fall/Winter 2026 . The campaign was shot at a real Tokyo arcade and stars Japanese gyaru model Yukipoyo alongsi",
-     "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F19%2Faape-baby-baby-milo-fw26-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
     }
    ],
    "avisos": [
